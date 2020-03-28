@@ -1,3 +1,3 @@
 # CORONAVIRUS-CONVID-19
 
-![Screenshot](CORONAVIRUS (COVID-19) 512.png)
+![COVID 19](covid19.png)
